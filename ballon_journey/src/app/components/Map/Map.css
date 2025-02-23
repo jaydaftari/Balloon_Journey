@@ -1,0 +1,16 @@
+.balloon-dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 9px;
+    border: 2px solid white;
+    
+    /* Centering the text */
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+}
+    
